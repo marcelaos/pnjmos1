@@ -1,0 +1,9 @@
+Path: /symbol?symbol=as, Request time: 1/9/2020 8:42:38, Response status:404
+Path: /symbol?symbol=as, Request time: 1/9/2020 8:44:35, Response status:404
+Path: /symbol?symbol=twtr, Request time: 1/9/2020 10:25:20, Response status:404
+Path: /symbol/?symbol=twtr, Request time: 1/9/2020 10:25:21, Response status:200
+Path: /symbol/?symbol\=twtr, Request time: 1/9/2020 10:27:24, Response status:204
+Path: /symbol/?symbol\=twtr, Request time: 1/9/2020 10:28:43, Response status:204
+Path: /symbol/?symbol\=twtr, Request time: 1/9/2020 10:28:47, Response status:204
+Path: /symbol?symbol\=twtr, Request time: 1/9/2020 10:29:30, Response status:404
+Path: /symbol?symbol\=twtr, Request time: 1/9/2020 10:29:53, Response status:404

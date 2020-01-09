@@ -1,0 +1,11 @@
+curl --header 'Accept: text/event-stream' https://cloud-sse.iexapis.com/stable/stocksUS\?symbols\=spy\&token\=pk_d35e069d5bfd47b6badeaa3eb55675e3 
+
+https://cloud-sse.iexapis.com/stable/stocksUS?symbols=spy&token=pk_d35e069d5bfd47b6badeaa3eb55675e3
+
+https://api.iextrading.com/1.0/stock/ssl/logo/8511587902686657
+
+https://api.iextrading.com/1.0/stock/ssl/logo/token=90093319006b44c9a0cfaa5fb283c0ff
+
+https://cloud.iexapis.com/stable/stock/twtr/quote?symbols=spy&token=pk_d35e069d5bfd47b6badeaa3eb55675e3
+
+https://cloud.iexapis.com/stable/stock/twtr/article/?token=pk_d35e069d5bfd47b6badeaa3eb55675e3
