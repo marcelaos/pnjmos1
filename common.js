@@ -13,7 +13,7 @@ exports.writeLogs = function (reqUrl, status) {
 
     var log="Path: "+reqUrl.path+", Request time: "+dformat+", Response status:"+status+"\n";
 
-    fs.appendFile("log.txt", log, function (err) {
+    fs.appendFile("log1.txt", log, function (err) {
         if (err) {
             return console.log(err);
         }
